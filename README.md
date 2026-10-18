@@ -7,7 +7,7 @@
 
 </div>
 
-## Sobre o Repositório
+## 📝 Sobre o Repositório
 
  Meu registro de estudos do **StartQA**, programa de Qualidade de Software da **MCIO Brasil**: anotações, exercícios e aprendizados de cada aula, para entender QA e dar os primeiros passos rumo a uma carreira em tecnologia.
 
@@ -46,8 +46,8 @@ O programa apresenta os principais fundamentos da Qualidade de Software, com uma
 | # | Data | Aula | Status |
 |---|------|------|--------|
 | 01 | 07/out | Qualidade de Software: muito além de encontrar bugs | ✅ |
-| 02 | 14/out | Do requisito à produção: QA no ciclo de desenvolvimento | 🟧 |
-| 03 | 19/out | Construindo certo a coisa certa | 🔄 |
+| 02 | 14/out | Do requisito à produção: QA no ciclo de desenvolvimento | ✅ |
+| 03 | 19/out | Construindo certo a coisa certa | 🟧 |
 | 04 | 21/out | Pensando como QA: risco e estratégia de testes | 🔄 |
 | 05 | 26/out | Tipos e níveis de testes | 🔄 |
 | 06 | 28/out | Além do funcional: qualidade também é performance, segurança e experiência | 🔄 |
