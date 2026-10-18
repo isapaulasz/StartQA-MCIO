@@ -3,8 +3,8 @@
 | # | Data | Aula | Status |
 |---|------|------|--------|
 | 01 | 07/out | Qualidade de Software: muito além de encontrar bugs | ✅ |
-| 02 | 14/out | Do requisito à produção: QA no ciclo de desenvolvimento | 🟧 |
-| 03 | 19/out | Construindo certo a coisa certa | 🔄 |
+| 02 | 14/out | Do requisito à produção: QA no ciclo de desenvolvimento | ✅ |
+| 03 | 19/out | Construindo certo a coisa certa | 🟧 |
 | 04 | 21/out | Pensando como QA: risco e estratégia de testes | 🔄 |
 | 05 | 26/out | Tipos e níveis de testes | 🔄 |
 | 06 | 28/out | Além do funcional: qualidade também é performance, segurança e experiência | 🔄 |
